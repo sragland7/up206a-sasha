@@ -1,4 +1,4 @@
-Ben Welsh Keynote Reactions: 
+**Ben Welsh Keynote Reactions**: 
 
 As we've seen (especially over the last year) graphics and charts are a powerful and impactful tool for storytelling. 
 Whether we are looking at COVID rates, election graphics, fire maps, or rates of police killings; we have been inundated with graphics over the past year. 
